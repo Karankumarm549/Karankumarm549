@@ -48,7 +48,7 @@
   <a href="mailto:karankumarm549@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://karan549.framer.website/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://drive.google.com/file/d/1_J__y-F2vmxWumC3ok73FLBruyKn3rR_/view?usp=drive_link" target="_blank">
