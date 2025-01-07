@@ -51,7 +51,7 @@
   <a href="https://karan549.framer.website/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://drive.google.com/file/d/1_J__y-F2vmxWumC3ok73FLBruyKn3rR_/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/drive/folders/1BsU8iBMvU4up0DJkUCt23-yB9yZWjQ0s?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=Google-Drive&logoColor=white" alt="Resume" />
   </a>
 </p>
